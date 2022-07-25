@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "217704724058",
+    "project_id": "topicgame-e3405",
+    "storage_bucket": "topicgame-e3405.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217704724058:android:1d9a1bb842c0f8a1ee8a63",
+        "android_client_info": {
+          "package_name": "com.Ortas.TopicGame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217704724058-1ie673eo5jt4s5namb20ckp5prabh9ah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt0t7KRIShH7J7U5ut7q6U2cJbhIaZD-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217704724058-1ie673eo5jt4s5namb20ckp5prabh9ah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
